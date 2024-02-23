@@ -1,68 +1,19 @@
-# Homepage
+# Wet- en Regelgeving Wave
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welkom op de pagina voor de Wet- en Regelgeving van Wave!
+In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Wave.
 
-## Code Annotation Examples
+Zorg ervoor, dat je voor je deelneemt aan Wave, kennis hebt genomen van deze wetten.
 
-### Codeblocks
+- De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de testserver (dit zijn zogezegd de "server regels").
+- Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een voertuiglijst waar je kan opzoeken wat de spawn namen zijn).
 
-Some `code` goes here.
+## Officiële discord servers
 
-### Plain codeblock
+Wave heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
 
-A plain codeblock:
-
-```
-Some code here
-def myfunction()
-// some comment
-```
-
-#### Code for a specific language
-
-Some more code with the `py` at the start:
-
-``` py
-import tensorflow as tf
-def whatever()
-```
-
-#### With a title
-
-``` py title="bubble_sort.py"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-#### With line numbers
-
-``` py linenums="1"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-#### Highlighting lines
-
-``` py hl_lines="2 3"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-## Icons and Emojs
-
-:smile: 
-
-:fontawesome-regular-face-laugh-wink:
-
-:fontawesome-brands-twitter:{ .twitter }
-
-:octicons-heart-fill-24:{ .heart }
+| Server | Beschrijving | Invite link |
+|---|---|:---:|
+|Wave Testserver| Main discord server van Wave | [Invite](https://discord.gg/wavetestserver) |
+|Wave Support| Support discord server van Wave | [Invite](https://discord.gg/ADbwTEU9N7) |
+|Wave Onderwereld| Onderwereld discord server van Wave | [Invite](https://discord.gg/ADbwTEU9N7) |
