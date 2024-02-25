@@ -7,7 +7,6 @@ theme:
 # Copyright
 copyright: Copyright © 2023 - 2024 Wave Testserver
 
-  favicon: img/logoTedeapolis.png
   logo: img/logoTedeapolis.webp
 
 nav:
