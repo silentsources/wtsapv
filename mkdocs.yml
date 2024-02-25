@@ -3,9 +3,6 @@ site_name: Wave wet en regelgeving
 theme:
   name: material
   langueage: nl
-
-logo: img/logoTedeapolis.webp
-favicon: img/logoTedeapolis.png
  
 # Copyright
 copyright: Copyright © 2023 - 2024 Wave Testserver
