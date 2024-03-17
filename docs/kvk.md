@@ -17,9 +17,8 @@
 
 ### Naamloos Cardealer
 
-|---|---|---|---|
 |  *Eigenaar* |   | Lowed Soma  | Mick Superman |
-| *Bedrijf soort*  | Autodealer  |
-| *Vestiging*  | 5000  |
+| *Bedrijf soort* | Autodealer |
+| *Vestiging*  | 5000 |
 
 ---------------------
