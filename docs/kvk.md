@@ -19,8 +19,8 @@
 
 |   |   |
 |---|---|
-| **Beheer(ders)** | Lowed Soma |
-| **Bedrijf type**  | Voertuig dealer |
-| **Vestiging**  | 5000 |
+| **Beheer(ders):** | Lowed Soma |
+| **Bedrijf type:**  | Voertuig dealer |
+| **Vestiging:**  | 5000 |
 
 ---------------------
