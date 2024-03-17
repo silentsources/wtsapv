@@ -26,7 +26,7 @@
 ### Naamloos Cardealer
 |   |   |
 |---|---|
-| **Beheer(ders):** | Lowed Soma | Florian Hazelnoot | Crusty Air | Jesse Air |
+| **Beheer(ders):** | Lowed Soma | Florian Horizon | Crusty Air | Jesse Air |
 | **Bedrijf type:**  | Voertuigdealers |
 | **Vestiging:**  | 5000 |
 
