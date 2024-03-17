@@ -27,7 +27,7 @@
 |   |   |
 |---|---|
 | **Beheer(ders):** | Lowed Soma |
-| **Bedrijf type:**  |  |
+| **Bedrijf type:**  | Voertuigdealers |
 | **Vestiging:**  | 5000 |
 
 ---------------------
