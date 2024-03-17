@@ -9,9 +9,11 @@
 
 ### A2 - Bedrijf Soorten
 
-1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
-2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
+1. Hieronder worden alle bedrijfs soorten neergezet.
+    1. Het misbruiken van de Z spier om spelers te vinden/identificeren tijdens scenario’s.
+    2. Het wegzetten van je voertuig tijdens een achtervolging om te voorkomen dat je voertuig in beslag wordt genomen.
+    3. Het vinden van loopholes in de stad en/of regels om hiermee een voordeel voor jezelf uit te halen.
+    4. Het vluchten in je appartement tijdens een scenario.
 
 ## KVK - Kamer van Koophandel (KVK)
 
