@@ -16,9 +16,10 @@
 ## KVK - Kamer van Koophandel (KVK)
 
 ### Naamloos Cardealer
-
-|  *Eigenaar* |   | Lowed Soma  | Mick Superman |
-| *Bedrijf soort* | Autodealer |
-| *Vestiging*  | 5000 |
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eigenaar** |   | 20 uur  | € 2000,-  |
+| **Bedrijf type**  |   | 30 uur  | € 4000,-  |
+| **Vestiging**  |   | 60 uur  | € 5000,-  |
 
 ---------------------
