@@ -24,8 +24,8 @@
 ## KVK - Kamer van Koophandel (KVK)
 
 ### Naamloos Cardealer
-|   |   |   |   |
-|---|---|---|---|
+|   |   |   |   |   |
+|---|---|---|---|---|
 | **Beheer(ders):** | Lowed Soma | Florian Horizon | Crusty Air | Jesse Air |
 | **Bedrijf type:**  | Voertuigdealers |
 | **Vestiging:**  | 5000 |
