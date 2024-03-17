@@ -10,10 +10,16 @@
 ### A2 - Bedrijf Soorten
 
 1. Hieronder worden alle bedrijfs soorten neergezet.
-    * Het misbruiken van de Z spier om spelers te vinden/identificeren tijdens scenario’s.
-    * Het wegzetten van je voertuig tijdens een achtervolging om te voorkomen dat je voertuig in beslag wordt genomen.
-    * Het vinden van loopholes in de stad en/of regels om hiermee een voordeel voor jezelf uit te halen.
-    * Het vluchten in je appartement tijdens een scenario.
+    * Vastgoed
+    * Gezondheidszorg
+    * Transport- en logistieke
+    * Consultancy
+    * Horeca
+    * Productie
+    * Financiële dienstverleners
+    * Detailhandel
+    * Technologie
+    * Voertuigdealers
 
 ## KVK - Kamer van Koophandel (KVK)
 
@@ -21,7 +27,7 @@
 |   |   |
 |---|---|
 | **Beheer(ders):** | Lowed Soma |
-| **Bedrijf type:**  | Voertuig dealer |
+| **Bedrijf type:**  |  |
 | **Vestiging:**  | 5000 |
 
 ---------------------
