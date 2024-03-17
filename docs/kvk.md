@@ -18,8 +18,8 @@
 ### Naamloos Cardealer
 |   |   |
 |---|---|
-|  *Eigenaar* | Lowed Soma |
-| *Bedrijf type*  | Voertuig dealer |
-| *Vestiging*  | 5000 |
+| **Eigenaar** | Lowed Soma |
+| **Bedrijf type**  | Voertuig dealer |
+| **Vestiging**  | 5000 |
 
 ---------------------
