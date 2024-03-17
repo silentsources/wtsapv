@@ -17,11 +17,9 @@
 
 ### Naamloos Cardealer
 
-|   | *Eigenaar*  | *Bedrijf soort*  | *Vestiging*  |
 |---|---|---|---|
-|  **Florian Hazelnoot** |   | 14 uur  | €6500,-  |
-| **Jesse Air**  | 12 maanden  |  | €8500,-  |
-| **Dylano Z**  | 24 maanden  |   | €10000,-  |
-| **Lowed Soma**  | Cardealer  |   | €10000,-  |
+|  *Eigenaar* |   | Lowed Soma  | Mick Superman |
+| *Bedrijf soort*  | Autodealer  |
+| *Vestiging*  | 5000  |
 
 ---------------------
