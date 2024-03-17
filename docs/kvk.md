@@ -16,7 +16,6 @@
 ## KVK - Kamer van Koophandel (KVK)
 
 ### Naamloos Cardealer
-
 |   |   |
 |---|---|
 | **Beheer(ders):** | Lowed Soma |
