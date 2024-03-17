@@ -19,7 +19,7 @@
 
 |   |   |
 |---|---|
-| **Eigenaar** | Lowed Soma |
+| **Beheer(ders)** | Lowed Soma |
 | **Bedrijf type**  | Voertuig dealer |
 | **Vestiging**  | 5000 |
 
