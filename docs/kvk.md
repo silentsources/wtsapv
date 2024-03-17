@@ -10,10 +10,10 @@
 ### A2 - Bedrijf Soorten
 
 1. Hieronder worden alle bedrijfs soorten neergezet.
-    Het misbruiken van de Z spier om spelers te vinden/identificeren tijdens scenario’s.
-    Het wegzetten van je voertuig tijdens een achtervolging om te voorkomen dat je voertuig in beslag wordt genomen.
-    Het vinden van loopholes in de stad en/of regels om hiermee een voordeel voor jezelf uit te halen.
-    Het vluchten in je appartement tijdens een scenario.
+    * Het misbruiken van de Z spier om spelers te vinden/identificeren tijdens scenario’s.
+    * Het wegzetten van je voertuig tijdens een achtervolging om te voorkomen dat je voertuig in beslag wordt genomen.
+    * Het vinden van loopholes in de stad en/of regels om hiermee een voordeel voor jezelf uit te halen.
+    * Het vluchten in je appartement tijdens een scenario.
 
 ## KVK - Kamer van Koophandel (KVK)
 
