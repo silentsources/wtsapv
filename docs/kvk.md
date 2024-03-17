@@ -17,7 +17,6 @@
 
 ### Naamloos Cardealer
 |   |   |   |   |
-|---|---|---|---|
 |  **Eigenaar** |   | 20 uur  | € 2000,-  |
 | **Bedrijf type**  |   | 30 uur  | € 4000,-  |
 | **Vestiging**  |   | 60 uur  | € 5000,-  |
