@@ -16,7 +16,7 @@
 ## KVK - Kamer van Koophandel (KVK)
 
 ### Naamloos Cardealer
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+
 |---|---|---|---|
 |  **Eigenaar** |   | 20 uur  | € 2000,-  |
 | **Bedrijf type**  |   | 30 uur  | € 4000,-  |
