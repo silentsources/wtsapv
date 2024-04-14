@@ -7,7 +7,7 @@
 | Overheidsorganisatie      | Bestuur Wave |
 | Officiële naam            | Algemeen Wetboek Wave |
 | Citeertitel               | Wetboek Wave |
-| Vastgesteld door          | De Bestuurleden |
+| Vastgesteld door          | Het Bestuur|
 | Onderwerp                 | Openbare orde en veiligheid |
 
 ## Algemene Bepalingen
@@ -335,6 +335,8 @@
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
 3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
 4. Bij een poging tot zware mishandeling wordt de straf met 33% verminderd.
+5. Zware mishandeling moet ten alle tijden gecontroleerd worden door een ambulancier. Die geeft dan een document Verklaring Letselschade Ambulance.
+6. Uitzondering op lid 5 is van toepassing als de persoon bewusteloos is geweest.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -871,6 +873,30 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Tweede Veroordeling**  | 37 maanden  |  | € 8500,-  |
 | **Meerdere Veroordelingen**  | 49 maanden  |  | € 9350,-  |
 
+### Artikel V-7 Vuurwerkbezit
+1. Strafbaar is een persoon die vuurwerk bij zich heeft of in bezit is van vuurwerk.
+2. Een persoon is niet strafbaar op het vertoon van de juiste documenten die uitgeschreven zijn door Justitie.
+3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
+4. Een persoon is ook strafbaar als deze heterdaad word betrapt op het afsteken van vuurwerk. Als dit artikel van kracht is mag de straf met 33% omhoog.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 10 maanden  |  | € 5000,-  |
+| **Tweede Veroordeling**  | 15 maanden  |  | € 7500,-  |
+| **Meerdere Veroordelingen**  | 30 maanden  |  | € 15000,-  |
+
+### Artikel V-8 Vuurwerkhandel
+1. Strafbaar is een persoon die vuurwerk verhandelt.
+2. Een persoon is niet strafbaar op het vertoon van de juiste documenten die uitgeschreven zijn door Justitie. 
+3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
+4. Een persoon is ook strafbaar als deze heterdaad word betrapt op het afsteken van vuurwerk. Als dit artikel van kracht is mag de straf met 33% omhoog.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 15 maanden  |  | € 7500,-  |
+| **Tweede Veroordeling**  | 25 maanden  |  | € 12500,-  |
+| **Meerdere Veroordelingen**  | 45 maanden  |  | € 22500,-  |
+
 ## Titel VI - Wet op de Kansspelen
 
 ![Titel VII](img/wetboek/kansspellen.webp)
@@ -1274,10 +1300,10 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 7. Bodycam beelden zijn op de volgende manier toegestaan:
     * Medewerkers in dienst bij de overheid zijn uitgerust met bodycams.
     * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken.   (Uitzondering op deze regel is wanneer dit niet mogelijk is (bijvoorbeeld bij een zwaar vest van de politie))
-    * De bodycam beelden mogen met 360 graden beeld gebruikt worden.
-    * Burgers kunnen alleen met hun telefoon filmen.
+    * De bodycam beelden mogen met 360 graden beeld gebruikt worden.Wanneer je in een voertuig zit gelden de dashcam regels, dus geen 360 graden beeld.
+    * Burgers kunnen gebruik maken van een telefoon, visuele bodycam & dashcam om te filmen.
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- en achteruit filmen.
 8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
 
 ---------------------
-*Wetboek Wave is opgesteld uit naam van de Bestuur, bedoeld voor de gemeente en de stad “Wave”, opgetekend door Mick Superman en Mauro Superman, te Wave.*
+*Wetboek Wave is opgesteld uit naam van het Bestuur, bedoeld voor de gemeente en de stad “Wave”, opgetekend door Silent Sources, te Wave.*
