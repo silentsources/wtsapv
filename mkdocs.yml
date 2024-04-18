@@ -39,15 +39,7 @@ theme:
     analytics:
       provider: google
       property: UA-167800475-3
-
-plugins:
-  - git-revision-date-localized:
-      type: timeago
-      time_zone: Europe/Amsterdam
-      locale: nl
-      fallback_to_build_date: false
-  - search:
-      lang: nl
+      
 markdown_extensions:
   - admonition
   - attr_list
