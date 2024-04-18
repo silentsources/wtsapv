@@ -2,7 +2,10 @@ site_name: Wave wet en regelgeving
 
 theme:
   name: material
-  langueage: nl
+  language: nl
+
+  favicon: img/logoTedeapolis.png
+  logo: img/logoTedeapolis.webp
  
 # Copyright
 copyright: Copyright © 2023 - 2024 Wave Roleplay

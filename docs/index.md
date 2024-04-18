@@ -1,4 +1,4 @@
-# Wet- en Regelgeving Tedeapolis
+# Wet- en Regelgeving Wave
 
 Welkom op de pagina voor de Wet- en Regelgeving van Wave!
 In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Wave.
