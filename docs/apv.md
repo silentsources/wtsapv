@@ -1,14 +1,14 @@
-# Algemene Plaatselijke Verordening Wave
+# Algemene Plaatselijke Verordening Eindhoven
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Eindhoven, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Wave.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Eindhoven.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
@@ -207,7 +207,7 @@ verdere intentie tot roleplay is niet toegestaan.
 1. Hij/zij die informatie verkrijgt buiten de server en deze informatie vervolgens in-game gebruikt.
 2. Enkele voorbeelden van metagaming zijn:
     * Het gebruiken van informatie uit Discord kanalen buiten de daarvoor bestemde kanalen.
-    * Het is verboden om te screen-sharen binnen Wave Roleplay.
+    * Het is verboden om te screen-sharen binnen Eindhoven Roleplay.
     * Je dient ten alle tijden gedempt te zijn in discord als je ingame bent (uitzondering voor overheid discord). 
 3. Bij overtreding zal dit resulteren in een straf volgens maximaal de 3e categorie.
 
@@ -239,7 +239,7 @@ verdere intentie tot roleplay is niet toegestaan.
 ### Artikel 18 - Belediging
 
 1. Persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen, of andere ongepaste opmerkingen, wordt bestraft door middel van een ban volgens maximaal de 5e categorie.
-2. Het is tevens niet toegestaan om in de Wave erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
+2. Het is tevens niet toegestaan om in de Eindhoven erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
 3. Op lid 1 geldt een uitzondering voor het schelden met hedendaagse relevante ziektes, bij de eerste keer zal dat bestraft worden doormiddel van een warning met 50 taken. Bij de tweede keer zal hij/zij bestraft worden met 1 week ban, en derde keer zal het een maand ban zijn.
 
 ### Artikel 19 - Nederlandse Taal
@@ -336,7 +336,7 @@ verdere intentie tot roleplay is niet toegestaan.
 
 ### Artikel 31 - Officiële gang regels
 
-1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Wave.
+1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Eindhoven.
 2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben.
 3. Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitten zonder goedkeuring (uitzondering op deze regel is er voor het kopen en verkopen van goederen zoals drugs en wapens aan elkaar).
 4. Bij overtreding zal dit resulteren in een straf volgens maximaal de 2e categorie en een gangwarn.

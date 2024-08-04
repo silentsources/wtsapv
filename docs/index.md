@@ -1,21 +1,21 @@
-# Wet- en Regelgeving Wave
+# Wet- en Regelgeving Eindhoven
 
-Welkom op de pagina voor de Wet- en Regelgeving van Wave!
-In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Wave.
+Welkom op de pagina voor de Wet- en Regelgeving van Eindhoven!
+In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Eindhoven.
 
-Zorg ervoor, dat je voor je deelneemt aan Wave, kennis hebt genomen van deze wetten.
+Zorg ervoor, dat je voor je deelneemt aan Eindhoven, kennis hebt genomen van deze wetten.
 
 - De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
-- Het Wetboek Wave bevat alle wetten voor de burgers.
+- Het Wetboek Eindhoven bevat alle wetten voor de burgers.
 - Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
 ## Officiële discord servers
 
-Wave heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
+Eindhoven heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Wave Roleplay| Main discord server van Wave | [Invite](https://discord.gg/wrp) |
-|Wave Support| Support discord server van Wave | [Invite](https://discord.gg/5vDsktG9Qn) |
-|Wave Cardealer| Cardealer discord server van Wave | [Invite](https://discord.gg/UcCG2kn) |
-|Wave Flightschool| Vliegschool discord server van Wave | [Invite](https://discord.gg/JMrvTrZqcz) |
+|Eindhoven Roleplay| Main discord server van Eindhoven | [Invite](https://discord.gg/wrp) |
+|Eindhoven Support| Support discord server van Eindhoven | [Invite](https://discord.gg/5vDsktG9Qn) |
+|Eindhoven Cardealer| Cardealer discord server van Eindhoven | [Invite](https://discord.gg/UcCG2kn) |
+|Eindhoven Flightschool| Vliegschool discord server van Eindhoven | [Invite](https://discord.gg/JMrvTrZqcz) |

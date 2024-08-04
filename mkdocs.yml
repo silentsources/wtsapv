@@ -1,11 +1,10 @@
 # Project information
-site_name: Wave wet en regelgeving
-site_url: 'https://apv.waveroleplay.nl/'
-site_description: 'Wet en regelgeving van Wave roleplay'
-site_author: 'Wave'
+site_name: Eindhoven wet en regelgeving
+site_description: 'Wet en regelgeving van Eindhoven roleplay'
+site_author: 'Eindhoven'
 
 # Copyright
-copyright: Copyright &copy; 2023 - 2024 Wave
+copyright: Copyright &copy; 2023 - 2024 Eindhoven
 
 # Congiguration
 theme:
@@ -23,8 +22,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoWave.png
-  logo: img/logoWave.webp
+  favicon: img/logoEindhoven.png
+  logo: img/logoEindhoven.webp
   custom_dir: docs/overrides
   language: nl
   features:
@@ -55,7 +54,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Wave: streamen.md
+  - Streamen op Eindhoven: streamen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
