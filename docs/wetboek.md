@@ -4,19 +4,32 @@
 
 | | |
 |---|---|
+<<<<<<< HEAD
 | Overheidsorganisatie      | Bestuur Eindhoven |
 | Officiële naam            | Algemeen Wetboek Eindhoven |
 | Citeertitel               | Wetboek Eindhoven |
 | Vastgesteld door          | het Bestuur|
+=======
+| Overheidsorganisatie      | Hoge Raad Eindhoven |
+| Officiële naam            | Algemeen Wetboek Eindhoven |
+| Citeertitel               | Wetboek Eindhoven |
+| Vastgesteld door          | de Hoge Raad|
+>>>>>>> 1bd09f580c23d253d8a1c3888d51249d3cc9238a
 | Onderwerp                 | Openbare orde en veiligheid |
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
+<<<<<<< HEAD
 1. Het Wetboek Eindhoven (verder aangeduid als WWEH) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
 2. Het WWEH heeft betrekking op het vaste land, de gemeente, en de stad Eindhoven.
 3. Het WWEH is nauw verweven met de Algemene Plaatselijke Verordening Eindhoven (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+=======
+1. Het Wetboek Eindhoven (verder aangeduid als WEH) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
+2. Het WEH heeft betrekking op het vaste land, de gemeente, en de stad Eindhoven.
+3. Het WEH is nauw verweven met de Algemene Plaatselijke Verordening Eindhoven (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+>>>>>>> 1bd09f580c23d253d8a1c3888d51249d3cc9238a
 
 ### A2 - Geldigheid
 
@@ -120,7 +133,7 @@
 2. Onder de algemene rechtsbeginselen wordt verstaan:
     1. Subsidiariteit, het toepassen van maatregelen en acties die het minst bezwarend zijn;
     2. Proportionaliteit, het in verhouding hebben en houden van acties, sancties en beslissingen ten opzichte van het (mogelijk) gepleegde feit;
-    3. Behoorlijk Bestuur, gebaseerd op de beginselen van vertrouwen, rechtszekerheid, gelijkheid en onpartijdigheid;
+    3. Behoorlijk Hoge Raad, gebaseerd op de beginselen van vertrouwen, rechtszekerheid, gelijkheid en onpartijdigheid;
     4. Legaliteit, waarbij het overheidsoptreden dat ingrijpt op de rechten en plichten (persoonlijke levenssfeer) van burgers moet berusten op een wettelijke grondslag;
     5. Kenbaarheid van regelgeving, waarbij burgers in staat gesteld moeten zijn kennis te nemen van regelgeving;
     6. Redelijkheid en billijkheid, waarbij als factor de redelijkheid en rechtmatigheid als ongeschreven regel dient te gelden bij overeenkomsten en situaties;
@@ -569,9 +582,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel III-12 Voertuigeisen
 
-1. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
-2. Indien een voertuig ramen bezit dient het gezicht van de bestuurder en passagier(s) duidelijk zichtbaar te zijn.
-2A lid 2 geldt voor de voorruit en de naast de bestuurderszitplaats aanwezige zijruiten.
+1. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de Hoge Raadder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
+2. Indien een voertuig ramen bezit dient het gezicht van de Hoge Raadder en passagier(s) duidelijk zichtbaar te zijn.
+2A lid 2 geldt voor de voorruit en de naast de Hoge Raadderszitplaats aanwezige zijruiten.
 3. Er mag geen verlichting gevoerd worden onder het voertuig bij deelname aan het verkeer.
 4. Het voertuig dient vrij te zijn van uitstekende onderdelen en/of grote schade, die de veiligheid in het gedrang brengt.
 5. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
@@ -582,8 +595,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 #### Strafbepalingen Voertuigeisen
 
 1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de bovenstaande eisen.
-2. Indien een bestuurder in een voertuig met een WOK-status deelneemt aan het verkeer, en de Politie of Koninklijke Marechaussee de bestuurder voor de eerste of tweede keer staande houdt, dan zal dit worden gezien als een misdrijf. Dit wordt bestraft met een inbeslagname van het desbetreffende voertuig.
-3. Wordt een bestuurder bij een derde keer of vaker staande gehouden, zal de sanctie van een inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
+2. Indien een Hoge Raadder in een voertuig met een WOK-status deelneemt aan het verkeer, en de Politie of Koninklijke Marechaussee de Hoge Raadder voor de eerste of tweede keer staande houdt, dan zal dit worden gezien als een misdrijf. Dit wordt bestraft met een inbeslagname van het desbetreffende voertuig.
+3. Wordt een Hoge Raadder bij een derde keer of vaker staande gehouden, zal de sanctie van een inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
 4. Een WOK-status is een status die vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de ANWB, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
 
 #### Rijden met WOK-status straffen
@@ -597,7 +610,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | *Feit* | *boete* |
 |---|---|
 | Rijden zonder kentekenplaten | € 10000,- |
-| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 7500,- |
+| Ramen dusdanig donker getint zodat de Hoge Raadder en passagier voor in niet zichtbaar zijn | € 7500,- |
 | Verlichting(NEON) onder het voertuig | € 2500,- |
 | Rijden met koplampen met een andere lichtkleur dan wit of geel | € 5000,- |
 
@@ -627,7 +640,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Onder illegaal voertuig wordt verstaan, elk voertuig dat is aangeduid als 'illegaal' bij de cardealer en/of in onderstaande tabel is vermeld.
 3. Indien persoon wordt aangetroffen op zijn of haar voertuig zoals bedoeld in lid 1, wordt het voertuig direct in beslag genomen en vernietigd.
 4. Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig eveneens direct in beslag genomen en vernietigd.
-5. De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen.
+5. De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere Hoge Raadder aangetroffen.
 6. Voertuigen die gehuurd worden op een illegale manier worden ook bestempeld als illegaal. Ook als er geen eigenaar aan te linken is is het voertuig illegaal. Dit zal resulteren in het in beslag nemen van het voertuig.
 
 | Illegale voertuigen | Soort |
@@ -1058,7 +1071,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel VIII-8 Deelname aan een criminele organisatie
 
 1. Schuldig is een persoon die deelneemt aan, steun verleent aan, of gelieerd is aan een organisatie die tot doel heeft het plegen van misdrijven.
-2. Ten aanzien van de oprichters, leiders of bestuurders kunnen de gevangenisstraffen met een derde worden verhoogd.
+2. Ten aanzien van de oprichters, leiders of Hoge Raadders kunnen de gevangenisstraffen met een derde worden verhoogd.
 3. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
@@ -1265,7 +1278,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
 3. Fouillering geschiedt op een besloten plaats dit mag elke agent doen van elk geslacht. De verdachte mag dan wel een voorkeur hebben van een geslacht maar mag ten alle tijden een agent van het andere geslacht hem/haar ook laten fouilleren.
 4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
-5. De Koninklijke Marechaussee is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
+5. De Koninklijke Marechaussee is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de Hoge Raadder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
 6. De Koninklijke Marechaussee is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
 7. De Koninklijke Marechaussee maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
@@ -1306,4 +1319,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
 
 ---------------------
+<<<<<<< HEAD
 *Wetboek Eindhoven is opgesteld uit naam van het Bestuur, bedoeld voor de gemeente en de stad “Eindhoven”, opgetekend door Bram Mosterdfiets, te Eindhoven.*
+=======
+*Wetboek Eindhoven is opgesteld uit naam van het Hoge Raad, bedoeld voor de gemeente en de stad “Eindhoven”, opgetekend door Silent Sources, te Eindhoven.*
+>>>>>>> 1bd09f580c23d253d8a1c3888d51249d3cc9238a

@@ -30,7 +30,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Eindhoven, wordt hierbij inge
     * Categorie 8: een account wipe
     * Categorie 9: permanente ban
 
-2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen het Bestuur en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
+2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen het Hoge Raad en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
 4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een schriftelijke waarschuwing of terwijl een mondelinge waarschuwing uit te delen.
