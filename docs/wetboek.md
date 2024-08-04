@@ -4,32 +4,19 @@
 
 | | |
 |---|---|
-<<<<<<< HEAD
-| Overheidsorganisatie      | Bestuur Eindhoven |
-| Officiële naam            | Algemeen Wetboek Eindhoven |
-| Citeertitel               | Wetboek Eindhoven |
-| Vastgesteld door          | het Bestuur|
-=======
 | Overheidsorganisatie      | Hoge Raad Eindhoven |
 | Officiële naam            | Algemeen Wetboek Eindhoven |
 | Citeertitel               | Wetboek Eindhoven |
 | Vastgesteld door          | de Hoge Raad|
->>>>>>> 1bd09f580c23d253d8a1c3888d51249d3cc9238a
 | Onderwerp                 | Openbare orde en veiligheid |
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-<<<<<<< HEAD
-1. Het Wetboek Eindhoven (verder aangeduid als WWEH) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WWEH heeft betrekking op het vaste land, de gemeente, en de stad Eindhoven.
-3. Het WWEH is nauw verweven met de Algemene Plaatselijke Verordening Eindhoven (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
-=======
 1. Het Wetboek Eindhoven (verder aangeduid als WEH) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
 2. Het WEH heeft betrekking op het vaste land, de gemeente, en de stad Eindhoven.
 3. Het WEH is nauw verweven met de Algemene Plaatselijke Verordening Eindhoven (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
->>>>>>> 1bd09f580c23d253d8a1c3888d51249d3cc9238a
 
 ### A2 - Geldigheid
 
