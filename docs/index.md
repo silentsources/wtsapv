@@ -15,7 +15,7 @@ Eindhoven heeft verschillende discord servers die zijn goed gekeurd door het sta
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Eindhoven Roleplay| Main discord server van Eindhoven | [Invite](https://discord.gg/eindhovenrp) |
+|Eindhoven Roleplay| Main discord server van Eindhoven | [Invite](https://discord.gg/wts) |
 |Eindhoven Support| Support discord server van Eindhoven | [Invite](https://discord.gg/8Ahe6GAFgB) |
 |Eindhoven Autohandelaar| Autohandelaar discord server van Eindhoven | [Invite](https://discord.gg/MVBNNZn6s6) |
 |Eindhoven Overheid| Overheid discord server van Eindhoven | [Invite](https://discord.gg/JVXktEZdbX) |
