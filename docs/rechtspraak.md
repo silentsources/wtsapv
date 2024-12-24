@@ -66,7 +66,7 @@ De rechtbank heeft het recht een zaak bij verstek te behandelen. Dit betekent da
 
 In de rechtbank wordt enige mate van orde gevraagd en verwacht. Het bewaken van de orde is ook een taak van de rechter en dienstdoend personeel van de overheid. De rechter kan indien nodig dwangsommen (boetes) opleggen wanneer de orde verstoord wordt.
 
-De uitspraak van de rechter is bindend (er is geen hoger beroep boven de rechter mogelijk in Eindhoven, behalve richting het Bestuur indien het de Roleplay ontstijgt). Als de verliezende partij de verdachte kan er een tegemoetkoming zijn in de vorm van een geldsom.
+De uitspraak van de rechter is bindend (er is geen hoger beroep boven de rechter mogelijk in Eindhoven, behalve richting de Hoge Raad indien het de Roleplay ontstijgt). Als de verliezende partij de verdachte kan er een tegemoetkoming zijn in de vorm van een geldsom.
 
 ## Het Ministerie
 

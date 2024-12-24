@@ -87,11 +87,8 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Eindhoven,
 
 ### Ziekenhuis
 
-- 3224 (Uitzondering op de aanhanger garage / buschauffeur depot)
-
-### Pier
-
-- 5041
+- 7038
+- 7039
 
 ### Maze bank Arena
 

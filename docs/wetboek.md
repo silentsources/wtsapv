@@ -155,6 +155,12 @@
 3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
 4. Na de 72 uur kan alleen een OvJ nog toestemming geven voor een langere hechtenis tot aan de rechtszaak.
 
+### A13 - Borgtocht
+
+1. Een verdachte heeft recht op een borgtocht indien er een huiszoeking is aangevraagd. Dit moet altijd goedgekeurd worden door een hOvJ of hoger.
+2. Bij een akkoord van een borgtocht ben je je verplicht te houden aan de afspraken die gemaakt zijn.
+3. Indien de huiszoeking per direct kan uitgevoerd worden vervalt lid 1.
+
 ## Titel I - Vermogensdelicten
 
 ![Titel I](img/wetboek/Vermogen.webp)
@@ -277,6 +283,7 @@
 1. Schuldig is een persoon die overgaat tot wederrechtelijke beroving van de vrijheid van een derde.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
 3. Bij poging tot wederrechtelijke beroving van de vrijheid van een derde wordt de straf met 33% verminderd.
+4. In het geval van meerdere slachtoffers is er geen vermeerdering op de straf van toepassing (zoals benoemd in A4 Strafbepaling lid 5).
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -443,9 +450,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** | | 45 uur | € 3000,-  | 24-48 uur |
-| **Tweede Veroordeling**  | 12 maanden  | | € 7500,- | 48-72 uur |
-| **Meerdere Veroordelingen**  | 18 maanden  | | € 10500,-  | 48-72 uur |
+|  **Eerste Veroordeling** |   | 45 uur  | € 3000,-  | 24-48 uur |
+| **Tweede Veroordeling**  |   | 75 uur | € 7500,-  | 48-72 uur |
+| **Meerdere Veroordelingen**  |   | 100 uur | € 10250,-  | 48-72 uur |
 
 ### Artikel III-4 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
 
@@ -639,6 +646,18 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Manchez | Motor |
 | Sanchez | Motor |
 | Sanchez Sport | Motor |
+
+### Artikel III-15 Straatraces
+
+1. Schuldig is een persoon die meedoet aan een straatraces.
+2. Onder straatrace word gezien als 2 of meerdere auto's naast of achter elkaar duelleren om sneller te zijn op een willekeurige of geplande route. Vaak gebeurd dit op Hoge snelheden, maar kan ook gebeuren op lage snelheden.
+3. Indien persoon de race organiseert word de straf met 33% verhoogt.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   | 15 uur  | € 10000,-  | 24-48 uur |
+| **Tweede Veroordeling**  |   | 25 uur | € 15000,-  | 48-72 uur |
+| **Meerdere Veroordelingen**  |   | 40 uur | € 22500,-  | 48-72 uur |
 
 ## Titel IV - Opiumwet
 
@@ -849,8 +868,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel V-5 Wapenhandel (14-20 WWM)
 
 1. Strafbaar is een persoon die wapens, aangemerkt als niet legaal, invoert, uitvoert, of doorvoert zonder hiervoor een geldig consent te hebben.
-2. Indien een ophanden zijnde wapentransactie aantoonbaar gepleegd zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als poging tot wapenhandel.
-3. Een poging tot wapenhandel zoals beschreven in lid 2 wordt bestraft als zijnde wapenhandel, verminderd met 1/2.
+2. Het is verboden een wapen of munitie van de categorieën I, II en III over te dragen.
+3. Indien een ophanden zijnde wapentransactie aantoonbaar gepleegd zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als poging tot wapenhandel.
+4. Een poging tot wapenhandel zoals beschreven in lid 2 wordt bestraft als zijnde wapenhandel, verminderd met 1/2.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -876,6 +896,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Meerdere Veroordelingen**  | 49 maanden  |  | € 9350,-  |
 
 ### Artikel V-7 Vuurwerkbezit
+
 1. Strafbaar is een persoon die vuurwerk bij zich heeft of in bezit is van vuurwerk.
 2. Een persoon is niet strafbaar op het vertoon van de juiste documenten die uitgeschreven zijn door Justitie.
 3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
@@ -888,8 +909,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Meerdere Veroordelingen**  | 30 maanden  |  | € 15000,-  |
 
 ### Artikel V-8 Vuurwerkhandel
+
 1. Strafbaar is een persoon die vuurwerk verhandelt.
-2. Een persoon is niet strafbaar op het vertoon van de juiste documenten die uitgeschreven zijn door Justitie. 
+2. Een persoon is niet strafbaar op het vertoon van de juiste documenten die uitgeschreven zijn door Justitie.
 3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
 4. Een persoon is ook strafbaar als deze heterdaad word betrapt op het afsteken van vuurwerk. Als dit artikel van kracht is mag de straf met 33% omhoog.
 
@@ -1308,4 +1330,4 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
 
 ---------------------
-*Wetboek Eindhoven is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Eindhoven”, opgetekend door Silent Sources, te Eindhoven.*
+*Wetboek Eindhoven is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Eindhoven.*
