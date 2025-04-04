@@ -1,18 +1,10 @@
 # Project information
 site_name: Tedeapolis wet en regelgeving
-site_url: 'https://wetboek.tedeapolis.nl/'
 site_description: 'Wet en regelgeving van Tedeapolis roleplay'
 site_author: 'Tedeapolis'
 
 # Copyright
 copyright: Copyright &copy; 2019 - 2022 Tedeapolis
-
-# Repository
-repo_url: 'https://github.com/Tedeapolis/wet-en-regelgeving/'
-repo_name: 'Tedeapolis/wet-en-regelgeving'
-edit_uri: 'edit/pre-release/docs/'
-
-google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.nl']
 
 # Congiguration
 theme:
