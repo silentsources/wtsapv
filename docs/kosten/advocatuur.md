@@ -1,6 +1,6 @@
 # Advocatuur
 
-Heeft u juridische bijstand nodig, dan kan de advocatuur van Tedeapolis u helpen.
+Heeft u juridische bijstand nodig, dan kan de advocatuur van Wave u helpen.
 Contracten opstellen, juridische vragen, en bijstand tijdens een verhoor.. de advocatuur is er om uw recht te verdedigen.
 
 Kosten voor de advocatuur zijn afhankelijk van een aantal factoren.

@@ -9,7 +9,7 @@ In dit document kunt u een overzicht vinden van de rechten en plichten die verbo
 
 ![Advocatuur](img/rechtspraak/advocatuur.webp)
 
-De advocatuur in Tedeapolis staat formeel in dienst van Justitie. Dit is voornamelijk administratief en heeft geen inhoudelijke gevolgen voor de onpartijdigheid van de advocaten. U mag dus verwachten dat een door u ingehuurde advocaat vrij is van belangenverstrengeling en *voor u* werkt.
+De advocatuur in Wave staat formeel in dienst van Justitie. Dit is voornamelijk administratief en heeft geen inhoudelijke gevolgen voor de onpartijdigheid van de advocaten. U mag dus verwachten dat een door u ingehuurde advocaat vrij is van belangenverstrengeling en *voor u* werkt.
 
 Van een advocaat mag u verwachten dat hij of zij u juridisch bijstaat. Dit kan zijn bij het opstellen van een contract, het bijstaan tijdens een verdenking of verhoor, enzovoorts. Een advocaat staat aan uw zijde, maar heeft uiteraard wel de plicht tot het naleven van de wet. Logischerwijs kunt u een advocaat niet vragen een strafbaar feit te begaan.
 Uw gesprekken met de advocaat zijn in beginsel geheim. Een advocaat is dan ook geboden de geheimhouding te respecteren, tenzij u als cliënt anders wilt.
@@ -22,16 +22,16 @@ Indien u verhoord gaat worden door de politie, dan heeft u voorafgaand aan dat v
 Omdat de advocatuur onder Justitie valt, betekent dit ook dat advocaten die niet administratief in dienst zijn van Justitie (**en dus geen advocatenpas hebben!**) officiëel geen advocaat zijn. Zonder advocatenpas wordt een advocaat ook niet toegelaten in het politiebureau voor juridische bijstand van een cliënt.
 
 Verdenkt u een iemand van schijnadvocatuur? Dan mag u hiervan melding maken bij politie of Justitie.
-Wilt u zelf aan de slag als advocaat? Kijk dan eens bij de sollicitatiepagina van Tedeapolis!
+Wilt u zelf aan de slag als advocaat? Kijk dan eens bij de sollicitatiepagina van Wave!
 
 ## De Officier van Justitie
 
 ![OvJ](img/rechtspraak/Officier_van_justitie.webp)
 
-De Officier van Justitie (hierna OvJ) heeft binnen Tedeapolis de rol van openbaar aanklager, strafvervolger, en advocaat van de overheid. Ook is de OvJ aangewezen voor het uitgeven van bijvoorbeeld huiszoekingsbevelen.
+De Officier van Justitie (hierna OvJ) heeft binnen Wave de rol van openbaar aanklager, strafvervolger, en advocaat van de overheid. Ook is de OvJ aangewezen voor het uitgeven van bijvoorbeeld huiszoekingsbevelen.
 Naast de OvJ bestaat er nog de rol van hulpofficier van Justitie (hOvJ), en Hoofdofficier van Justitie (HOvJ). De hulpofficier van Justitie heeft dezelfde bevoegdheden als de OvJ. De OvJ heeft alleen senioriteit, en beslisbevoegdheid indien er een knoop doorgehakt moet worden. Dezelfde verdeling staat tussen de OvJ en de HOvJ, waarbij de HOvJ een additionele bevoegdheid heeft: het besluiten tot betrekking van de rechtbank in een zaak.
 
-Bij de meeste (kleine) zaken is besloten de OvJ niet te betrekken om de rechtsgang binnen Tedeapolis niet te vertragen. In die zaken handelt de politie de zaak af, in de geest van de OvJ.
+Bij de meeste (kleine) zaken is besloten de OvJ niet te betrekken om de rechtsgang binnen Wave niet te vertragen. In die zaken handelt de politie de zaak af, in de geest van de OvJ.
 
 Er wordt wel een beroep gedaan op de OvJ:
 
@@ -49,9 +49,9 @@ Wanneer de OvJ betrokken wordt vanwege een strafzaak en de OvJ dus de rol van ad
 
 ![Rechtbank](img/rechtspraak/rechtbank.webp)
 
-De rechtbank heeft een relatief kleine rol binnen Tedeapolis, maar wel met groot gevolg. Verreweg de meeste zaken zullen nooit voor de rechter verschijnen, omdat ze afgedaan kunnen worden door de politie en de officieren van Justitie (OvJ).
+De rechtbank heeft een relatief kleine rol binnen Wave, maar wel met groot gevolg. Verreweg de meeste zaken zullen nooit voor de rechter verschijnen, omdat ze afgedaan kunnen worden door de politie en de officieren van Justitie (OvJ).
 
-Wanneer er besloten wordt tot een rechtszaak, dan wordt er een rechter aangesteld voor die zaak. Binnen Tedeapolis zijn geen permanente rechters (dit is niet haalbaar), maar wordt er wel met zorg een rechter aangesteld op het moment dat dit nodig wordt geacht. Die rechters zijn altijd in dienst van Justitie en mogen ook alleen dienen als rechter.
+Wanneer er besloten wordt tot een rechtszaak, dan wordt er een rechter aangesteld voor die zaak. Binnen Wave zijn geen permanente rechters (dit is niet haalbaar), maar wordt er wel met zorg een rechter aangesteld op het moment dat dit nodig wordt geacht. Die rechters zijn altijd in dienst van Justitie en mogen ook alleen dienen als rechter.
 
 De planning van een rechtszaak heeft enige tijd nodig. Beide partijen willen hun zaak voorbereiden en dus zal een rechtszaak meestal niet dezelfde dag plaatsvinden. Afhankelijk van de reden van de rechtzaak kan een OvJ de hechtenis verlengen voor een rechtszaak. Zelf hoeft de verdachte ook niet aanwezig te zijn bij zijn veroordeeling. Wel moet de verdachte altijd eerlijk verhoord worden. Dit mag altijd met een advocaat erbij.
 
@@ -62,11 +62,11 @@ Een OvJ;
 Een advocaat van de verdediging;
 De beklaagde en/of verdachte;
 Een notulist/griffier;
-De rechtbank heeft het recht een zaak bij verstek te behandelen. Dit betekent dat een rechtszaak óók wordt gehouden als de beklaagde en/of verdachte niet (op tijd) aanwezig kunnen zijn in de rechtszaal. De meeste rechtszaken zijn openbaar en vrij te bezoeken door inwoners van Tedeapolis. Uitzonderingen kunnen vanwege de openbare orde en veiligheid gemaakt worden.
+De rechtbank heeft het recht een zaak bij verstek te behandelen. Dit betekent dat een rechtszaak óók wordt gehouden als de beklaagde en/of verdachte niet (op tijd) aanwezig kunnen zijn in de rechtszaal. De meeste rechtszaken zijn openbaar en vrij te bezoeken door inwoners van Wave. Uitzonderingen kunnen vanwege de openbare orde en veiligheid gemaakt worden.
 
 In de rechtbank wordt enige mate van orde gevraagd en verwacht. Het bewaken van de orde is ook een taak van de rechter en dienstdoend personeel van de overheid. De rechter kan indien nodig dwangsommen (boetes) opleggen wanneer de orde verstoord wordt.
 
-De uitspraak van de rechter is bindend (er is geen hoger beroep boven de rechter mogelijk in Tedeapolis, behalve richting de Hoge Raad indien het de Roleplay ontstijgt). Als de verliezende partij de verdachte kan er een tegemoetkoming zijn in de vorm van een geldsom.
+De uitspraak van de rechter is bindend (er is geen hoger beroep boven de rechter mogelijk in Wave, behalve richting de Hoge Raad indien het de Roleplay ontstijgt). Als de verliezende partij de verdachte kan er een tegemoetkoming zijn in de vorm van een geldsom.
 
 ## Het Ministerie
 

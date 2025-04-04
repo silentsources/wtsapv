@@ -1,22 +1,22 @@
-# Algemene Plaatselijke Verordening Tedeapolis
+# Algemene Plaatselijke Verordening Wave
 
 ## Wetstechnische informatie
 
 ### Wet van 29 november 2024
 
-Wij, de Hoge Raad der Tedeapolis, bij de gratie Gods, enz., enz., enz.
+Wij, de Hoge Raad der Wave, bij de gratie Gods, enz., enz., enz.
 
 Allen die deze zullen zien of horen lezen, salut! doen te weten:
 
-Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **Algemene Plaatselijke Verordening Tedeapolis (APV)** vast te stellen:
+Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **Algemene Plaatselijke Verordening Wave (APV)** vast te stellen:
 
-**Zo is het dat wij, de staff der Tedeapolis, gehoord en met gemeen overleg van de Hoge Raad, hebben goedgevonden en verstaan, gelijk wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken de Algemene Plaatselijke Verordening Tedeapolis.**
+**Zo is het dat wij, de staff der Wave, gehoord en met gemeen overleg van de Hoge Raad, hebben goedgevonden en verstaan, gelijk wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken de Algemene Plaatselijke Verordening Wave.**
 
 | **Kenmerk**                | **Details**                          |
 |----------------------------|--------------------------------------|
-| Overheidsorganisatie       | Staff der Tedeapolis                |
-| Officiële naam regeling    | Algemene Plaatselijke Verordening Tedeapolis |
-| Citeertitel                | Algemene Plaatselijke Verordening Tedeapolis |
+| Overheidsorganisatie       | Staff der Wave                |
+| Officiële naam regeling    | Algemene Plaatselijke Verordening Wave |
+| Citeertitel                | Algemene Plaatselijke Verordening Wave |
 | Vastgesteld door           | De Hoge Raad                        |
 | Onderwerp                  | Openbare orde en veiligheid         |
 
@@ -24,7 +24,7 @@ Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij overschreven door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij overschreven door deze APV.
 
 ---
 
@@ -32,7 +32,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ove
 
 ### **A-1 - Reikwijdte**
 
-1. Deze Algemene Plaatselijke Verordening, hierna te noemen **APV**, is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente en de stad Tedeapolis.
+1. Deze Algemene Plaatselijke Verordening, hierna te noemen **APV**, is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente en de stad Wave.
 2. De APV biedt een indicatief kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### **A-2 - Geldigheid**
@@ -185,12 +185,12 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 2. Het is niet toegestaan externe discords te gebruiken voor roleplay-gerelateerde zaken zonder toestemming van de staff.
     * **Eigenaren van deze Discord-servers** worden bestraft volgens **Categorie 7**.
-    * Tijdens voicechats met andere spelers van Tedeapolis geldt:
+    * Tijdens voicechats met andere spelers van Wave geldt:
         * Streamen is niet toegestaan.
         * Je moet gedeafened en gemute zijn.
     * Het streamen van de main server in een Discord-server is verboden, tenzij expliciet goedgekeurd door de staff.
     * Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
-    * In calls zitten met je vrienden die geen Tedeapolis spelen is ook verboden.
+    * In calls zitten met je vrienden die geen Wave spelen is ook verboden.
     * Het is toegestaan om in Discord via een "ic-bewijs" kanaal, bewijs te delen in Discord. Dit bewijs moet opgenomen zijn met een bodycam (360 graden), dashcam (voor/achter) en/of telefoon in de hand (360 graden).
 
 → **Sanctie:** Categorie 1.
@@ -219,8 +219,8 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 1. Bij het aanmaken van je personage moet de kleding worden aangepast. Het is niet toegestaan om met standaard startkleding de server te betreden. Het personage dient een realistische uitstraling te hebben, waarbij de outfit klopt (inclusief armen) en er geen lichaamsdelen ontbreken.
 2. De kleding die door de werkgever is verstrekt voor het uitvoeren van het beroep moet gedragen worden.
 3. Het dragen van kleding van overheidsbanen door niet-ambtenaren is verboden, tenzij hier een goedgekeurde roleplay door een stafflid aan verbonden is.
-4. Officiële Tedeapolis-kleding, bedoeld voor specifieke groeperingen, mag niet door anderen worden gebruikt of als startkleding worden gekozen, tenzij er een sterke en goedgekeurde roleplay aan verbonden is.
-5. Kleding die aangekocht is via de Tedeapolis website mag wel gedragen worden door iedereen. (Op eigen risico)
+4. Officiële Wave-kleding, bedoeld voor specifieke groeperingen, mag niet door anderen worden gebruikt of als startkleding worden gekozen, tenzij er een sterke en goedgekeurde roleplay aan verbonden is.
+5. Kleding die aangekocht is via de Wave website mag wel gedragen worden door iedereen. (Op eigen risico)
 
 → **Sanctie:** eerst een mondelinge waarschuwing. Bij het niet aanpassen volgt een straf volgens Categorie 1.
 
@@ -237,7 +237,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 ### **Artikel 15 - Talen in de stad**
 
-1. De voertalen op Tedeapolis zijn **Nederlands** en **Engels**.
+1. De voertalen op Wave zijn **Nederlands** en **Engels**.
 2. Andere talen mogen niet provocerend of beledigend worden gebruikt tijdens roleplay.
 3. Tijdens gesprekken met staff of overheidsfunctionarissen moet Nederlands worden gesproken. Als een persoon geen Nederlands spreekt, moet er iemand aanwezig zijn die namens hem in het Nederlands communiceert.
 
@@ -297,7 +297,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 ### **Artikel 20 - Belediging**
 
-1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Tedeapolis erkende platformen.
+1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Wave erkende platformen.
 
 → **Sanctie:**
     **Eerste overtreding:** Twee weken ban.
@@ -338,7 +338,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 * **Koninklijke marechaussee**
 * **Justitie**
 * **Ambulance**
-* **TDA Wegenwacht**
+* **Wave Wegenwacht**
 * **Handhaving**
 
 <!-- Kaas saak -->
@@ -354,7 +354,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 ### **Artikel 23 - Gedrag tegen overheidsmedewerkers**
 
 1. Meldingen naar een overheidsinstantie moeten realistisch en uitgebreid zijn; valse meldingen zijn verboden.
-2. Roleplay met TDA Wegenwacht en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
+2. Roleplay met Wave Wegenwacht en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
 3. Het maken van een melding om een overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
 4. Er moeten altijd minstens vijf overheidsmedewerkers beschikbaar blijven na een ontvoering uitgezonderd zijn de Justitie medewerkers.
 
@@ -457,7 +457,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
 2. De verhuur van sleutels voor loodsen is toegestaan.
 3. Het verhandelen van aandelen in loodsen is toegestaan.
-4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Tedeapolis met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
+4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Wave met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
 5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
 
 → **Sanctie:** categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
@@ -573,7 +573,7 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 * Onder de AFK-kick proberen uit te komen is verboden.
 * Ben je als agent niet in game, mag je niet deelnemen aan een overval.
 * Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
-* Het is verboden een ambulancier of een medewerker van de TDA Wegenwacht te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
+* Het is verboden een ambulancier of een medewerker van de Wave Wegenwacht te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
 * Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
 
 ---
@@ -590,4 +590,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Jordy Kolb, te Tedeapolis.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Wave”, opgetekend door Jordy Kolb, te Wave.
