@@ -48,4 +48,16 @@ extra_javascript:
 nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
-  - Streamen op Wave: streamen.md
+  - Wetboek: wetboek.md
+  - Risicogebieden: risico-gebieden.md
+  - Douanegebieden: douanegebieden.md
+  - NOTAM: notam.md
+  - Belastingen: belastingen.md
+  - Regelement voor de rechtspraak: rechtspraak.md
+  - Streamen op Tedeapolis: streamen.md
+  - Kosten:
+    - Advocatuur: kosten/advocatuur.md
+    - Ambulance: kosten/ambulance.md
+    - ANWB: kosten/anwb.md
+    - Politie: kosten/politie.md
+    - Vliegschool: kosten/vliegschool.md
