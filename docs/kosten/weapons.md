@@ -1,6 +1,6 @@
-# Ambulance
+# Weapons
 
-De ambulance hanteert de volgende prijzen voor de diensten die zij leveren.
+In onze testserver hebben wij tientallen verschillende weapons, in dit document staan alle weapons overzichtelijk gezet met een spawnnaam.
 
 ## Overheid weapons
 | Spawnname            | Label                  | Ammo               |
