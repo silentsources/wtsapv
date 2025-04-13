@@ -91,4 +91,4 @@ In onze testserver hebben wij tientallen verschillende voertuigen, in dit docume
 | asbo                | Maxwell Asbo                   |
 
 !!! attention "LET OP"
-    De prijzen kunnen ten alle tijden worden worden gewijzigd
+    De vehicles kunnen ten alle tijden worden worden gewijzigd
