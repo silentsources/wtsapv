@@ -52,15 +52,12 @@
 
 ### **Artikel 1 - Fail-RP**
 
-1. Het is verboden om roleplay van zeer slechte kwaliteit uit te spelen of gedrag te vertonen dat de roleplay verstoort.
+1. Het is verboden om roleplay van een ander waar je vooraf niet betrokken bent geweest te 'joinen', dit valt onder roleplay verstorend gedrag.
+* **Uitzondering:** Indien je 'roleplayed' op de server mag je reageren op de melding/roleplay, zoals een bank overval.
+
+2. Het is niet toegestaan om een roleplay scenario moedwillig te verstoren.
 
    → **Sanctie:** Categorie 1.
-
-Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeien met een achtervolging van een ander, is niet toegestaan.
-
-* **Uitzondering:** Indien de politie tussenbeide komt in een reeds bestaand conflict, is deze regel niet van toepassing.
-
-   → **Sanctie:** Categorie 2.
 
 ---
 
