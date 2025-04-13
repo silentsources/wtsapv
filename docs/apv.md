@@ -53,7 +53,7 @@
 ### **Artikel 1 - Roleplay Verstoren**
 
 1. Het is verboden om roleplay van een ander waar je vooraf niet betrokken bent geweest te 'joinen', dit valt onder roleplay verstorend gedrag.
-* **Uitzondering:** Indien je 'roleplayed' op de server mag je reageren op de melding/roleplay, zoals een bank overval.
+**Uitzondering:** Indien je 'roleplayed' op de server mag je reageren op de melding/roleplay, zoals een bank overval.
 
 2. Het is niet toegestaan om een roleplay scenario moedwillig te verstoren.
 
