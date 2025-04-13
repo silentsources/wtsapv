@@ -62,36 +62,23 @@
 
 ---
 
-### **Artikel 2 - Powergamen**
+### **Artikel 2 - New Life Rule**
 
-1. Het is niet toegestaan om opzettelijk de roleplay zodanig te manipuleren dat er een oneerlijke of onrealistische wending aan het verhaal wordt gegeven, of om de roleplay van een andere partij zelf in te vullen door middel van onrealistische dwang.
-
-2. Voorbeelden van overtredingen:
-    * Je voertuig in een garage zetten tijdens een achtervolging om verlies te voorkomen;
-    * Een agent ontvoeren om een signalering te verwijderen of om toegang te krijgen tot politiedossiers (MEOS);
-    * Medewerkers van overheidsdiensten dwingen een bewusteloos persoon te fouilleren, wapens af te nemen of af te geven aan jou of anderen.
+1. Indien je bent doodgeschoten en je weer revived is het verboden om (direct) terug te schieten op de persoon die jou heeft doodgeschoten.
 
 → **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 5 - New Life Rule**
+### **Artikel 3 - RDM (Random Deathmatch)**
 
-1. Indien een karakter overlijdt, wordt verwacht dat hij/zij/het de laatste roleplay vergeet. Het karakter mag niet terugkeren naar het gebied waar hij/zij/het is overleden. Dit gebied wordt aangeduid met een rode cirkel op de kaart en is verboden terrein gedurende **30 minuten** na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met hetzelfde scenario totdat dit volledig is afgerond.
+1. Het onnodig damage geven, vermoorden, uitlokken en/of lastigvallen van anderen zonder intentie tot contact van beiden kanten of roleplay is verboden.
 
-→ **Sanctie:** Categorie 4.
-
----
-
-### **Artikel 6 - RDM (Random Deathmatch)**
-
-1. Het onnodig mishandelen, vermoorden, uitlokken en/of lastigvallen van anderen zonder intentie tot roleplay is verboden. Dit geldt ook voor dieren.
-
-→ **Sanctie:** Categorie 2.
+→ **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 8 - Pornografische Content**
+### **Artikel 4 - Pornografische Content**
 
 1. Het uitvoeren/nabootsen van pornografische content is ten strengste verboden.
 
@@ -103,7 +90,7 @@
 
 ---
 
-### **Artikel 11 - Exploits**
+### **Artikel 5 - Exploits**
 
 1. Het moedwillig misbruiken van bugs en/of exploits om voordeel te behalen of in-game functionaliteiten te omzeilen, is verboden. Dit geldt ongeacht de gebruikte middelen.
 
@@ -111,7 +98,7 @@
 
 ---
 
-### **Artikel 12 - Cheats**
+### **Artikel 6 - Cheats**
 
 1. Het gebruik van software of hulpmiddelen van derden (cheats) om voordeel te behalen in het spel is verboden.
 2. Dit artikel geldt ook voor de Discord-client. Het gebruik van bijvoorbeeld **BetterDiscord** of soortgelijke clients is niet toegestaan.
@@ -120,7 +107,7 @@
 
 ---
 
-### **Artikel 14 - Combatlogging**
+### **Artikel 7 - Combatlogging**
 
 1. Het is verboden de game moedwillig te verlaten tijdens een staffzaak zonder geldige reden. Er wordt verwacht dat je binnen **5 minuten** terugkeert.
 2. Indien je de game wilt verlaten tijdens een staffzaak, moet je dit duidelijk maken aan de betrokkenen. Hiervoor moet wel een sterke en geldige voor reden zijn.
@@ -129,7 +116,7 @@
 
 ---
 
-### **Artikel 16 - Gebruik van “/report”**
+### **Artikel 8 - Gebruik van “/report”**
 
 1. Het gebruik van `/report` is bedoeld om overtredingen te melden zonder de overtreder op de hoogte te stellen.
 2. Het spammen van reports, het maken van onnodige reports, en discussiëren in reports is verboden.
@@ -138,7 +125,7 @@
 
 ---
 
-### **Artikel 19 - Gebruik van voertuigen**
+### **Artikel 9 - Gebruik van voertuigen**
 
 1. Het gebruik van voertuigen als wapen (VDM) is verboden. Het opzettelijk beuken van stilstaande voertuigen met de intentie om mensen om te laten vallen is ook niet toegestaan.
 
@@ -146,7 +133,7 @@
 
 ---
 
-### **Artikel 20 - Belediging**
+### **Artikel 10 - Belediging**
 
 1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Wave erkende platformen.
 
@@ -160,14 +147,7 @@
 
 ---
 
-### **Artikel 24 - Roleplay & Ledenaantal Criminele Organisaties**
-
-1. Officiële (gekochte) criminele organisaties hebben geen limit op leden.
-2. Een gangwar tussen officiële (gekochte) organisaties moeten worden gemeld via het daarvoor bestemde kanaal in de Discord.
-
----
-
-### **Artikel 29 - Omgaan met F6/ Thirdeye**
+### **Artikel 11 - Omgaan met F6/ Thirdeye**
 
 1. Het misbruiken van je F6/ thirdeye is niet toegestaan, hieronder valt spelers zonder enige reden boeien, fouilleren en noem het maar op. Wanneer je deze interacties wel mag gebruiken:
     * Er moet een roleplay scenario vooraf zijn gegaan om je politie-acties te gebruiken bij betrokkenen.
