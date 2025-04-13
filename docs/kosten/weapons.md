@@ -14,6 +14,8 @@ De ambulance hanteert de volgende prijzen voor de diensten die zij leveren.
 
 
 ## Addon weapons
+| Spawnname            | Label                  | Ammo               |
+|----------------------|------------------------|--------------------|
 | WEAPON_M1911         | M1911                 | ammo-9             |
 | WEAPON_MEOS45        | MEOS-45               | ammo-45            |
 | WEAPON_SMITHWESSON   | Smith & Wesson        | ammo-9             |
@@ -30,6 +32,8 @@ De ambulance hanteert de volgende prijzen voor de diensten die zij leveren.
 | WEAPON_AK47U         | AK-47U                | ammo-rifle         |
 
 ## GTA V weapons
+| Spawnname            | Label                  | Ammo               |
+|----------------------|------------------------|--------------------|
 | WEAPON_BARRET50      | Barrett .50 Cal       | ammo-sniper        |
 | WEAPON_LMG           | LMG .50               | ammo-sniper        |
 | WEAPON_PISTOL        | Pistol                | ammo-9             |
