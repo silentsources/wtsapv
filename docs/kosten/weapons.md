@@ -2,28 +2,34 @@
 
 De ambulance hanteert de volgende prijzen voor de diensten die zij leveren.
 
+## Overheid weapons
 | Spawnname            | Label                  | Ammo               |
 |----------------------|------------------------|--------------------|
 | WEAPON_GLOCK17       | Glock 17              | ammo-9-overheid    |
+| WEAPON_P99QNL        | Walther P99QNL        | ammo-9-overheid    |
+| WEAPON_MP5           | MP5                   | ammo-9-overheid    |
+| WEAPON_HK416         | HK416                 | ammo-rifle-overheid|
+| WEAPON_MRR15         | MRR-15                | ammo-rifle-overheid|
+| WEAPON_MCX           | MCX                   | ammo-rifle-overheid|
+
+
+## Addon weapons
 | WEAPON_M1911         | M1911                 | ammo-9             |
 | WEAPON_MEOS45        | MEOS-45               | ammo-45            |
 | WEAPON_SMITHWESSON   | Smith & Wesson        | ammo-9             |
-| WEAPON_P99QNL        | Walther P99QNL        | ammo-9-overheid    |
 | WEAPON_BERETTA       | BERETTA               | ammo-9             |
 | WEAPON_REMINGTON680  | Remington 680         | ammo-shotgun       |
 | WEAPON_SPAS12        | SPAS-12               | ammo-shotgun       |
-| WEAPON_MP5           | MP5                   | ammo-9-overheid    |
 | WEAPON_UMP45         | UMP45                 | ammo-45            |
 | WEAPON_MAC11         | MAC-11                | ammo-45            |
 | WEAPON_UZI           | UZI                   | ammo-45            |
 | WEAPON_SKORP         | Skorpion vz. 61       | ammo-9             |
-| WEAPON_HK416         | HK416                 | ammo-rifle-overheid|
-| WEAPON_MRR15         | MRR-15                | ammo-rifle-overheid|
-| WEAPON_MCX           | MCX                   | ammo-rifle-overheid|
 | WEAPON_M4A1          | M4A1                  | ammo-rifle         |
 | WEAPON_AK12          | AK-12                 | ammo-rifle         |
 | WEAPON_AK47          | AK-47                 | ammo-rifle         |
 | WEAPON_AK47U         | AK-47U                | ammo-rifle         |
+
+## GTA V weapons
 | WEAPON_BARRET50      | Barrett .50 Cal       | ammo-sniper        |
 | WEAPON_LMG           | LMG .50               | ammo-sniper        |
 | WEAPON_PISTOL        | Pistol                | ammo-9             |
@@ -47,4 +53,4 @@ De ambulance hanteert de volgende prijzen voor de diensten die zij leveren.
 | WEAPON_PISTOLXM3     | Pistol XM3            | ammo-9             |
 
 !!! attention "LET OP"
-    De prijzen kunnen ten alle tijden worden worden gewijzigd
+    De weapons kunnen ten alle tijden worden worden gewijzigd
