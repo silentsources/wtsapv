@@ -48,9 +48,9 @@
 
 ---
 
-## Overtredingen - Verstoring openbare orde (RP)
+## Overtredingen - Verstoring openbare orde
 
-### **Artikel 1 - Fail-RP**
+### **Artikel 1 - Roleplay Verstoren**
 
 1. Het is verboden om roleplay van een ander waar je vooraf niet betrokken bent geweest te 'joinen', dit valt onder roleplay verstorend gedrag.
 * **Uitzondering:** Indien je 'roleplayed' op de server mag je reageren op de melding/roleplay, zoals een bank overval.
@@ -69,16 +69,6 @@
     * Je voertuig in een garage zetten tijdens een achtervolging om verlies te voorkomen;
     * Een agent ontvoeren om een signalering te verwijderen of om toegang te krijgen tot politiedossiers (MEOS);
     * Medewerkers van overheidsdiensten dwingen een bewusteloos persoon te fouilleren, wapens af te nemen of af te geven aan jou of anderen.
-
-→ **Sanctie:** Categorie 1.
-
----
-
-### **Artikel 4 - Safezone**
-
-1. Het is verboden om de **Safezone** te gebruiken om te ontkomen aan illegale activiteiten en/of roleplay.
-2. **Voorbeelden van overtredingen binnen een Safezone:**
-    * Schade toebrengen, ontvoeren, uitbreken, overvallen, aanrijden of vermoorden van een persoon.
 
 → **Sanctie:** Categorie 1.
 
