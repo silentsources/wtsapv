@@ -1,9 +1,8 @@
 # Items
 
-In onze testserver hebben wij tientallen verschillende items, in dit document staan alle items overzichtelijk gezet met een spawnnaam.
+In onze testserver hebben wij tientallen verschillende voorwerpen, in dit document staan alle voorwerpen overzichtelijk gezet met een spawnnaam.
 
-## Voorwerpen
-
+## Items
 | Spawnname               | Label                              |
 |-------------------------|------------------------------------|
 | black_money             | Zwart geld                        |

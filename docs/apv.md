@@ -72,7 +72,7 @@
 
 ### **Artikel 3 - RDM (Random Deathmatch)**
 
-1. Het onnodig damage geven, vermoorden, uitlokken en/of lastigvallen van anderen zonder intentie tot contact van beiden kanten of roleplay is verboden.
+1. Het onnodig damage geven, vermoorden, uitlokken en/of lastigvallen van anderen zonder contact van beiden kanten of intentie tot roleplay is verboden.
 
 → **Sanctie:** Categorie 1.
 

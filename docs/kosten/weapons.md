@@ -1,6 +1,6 @@
 # Weapons
 
-In onze testserver hebben wij tientallen verschillende weapons, in dit document staan alle weapons overzichtelijk gezet met een spawnnaam.
+In onze testserver hebben wij tientallen verschillende wapens, in dit document staan alle wapens overzichtelijk gezet met een spawnnaam.
 
 ## Overheid weapons
 | Spawnname            | Label                  | Ammo               |
