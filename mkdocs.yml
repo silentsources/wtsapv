@@ -1,11 +1,11 @@
 # Project information
-site_name: Tedeapolis wet en regelgeving
-site_url: 'https://wetboek.tedeapolis.nl/'
-site_description: 'Wet en regelgeving van Tedeapolis roleplay'
-site_author: 'Tedeapolis'
+site_name: Sunstone wet en regelgeving
+site_url: 'https://wetboek.sunstonerp.nl/'
+site_description: 'Wet en regelgeving van Sunstone roleplay'
+site_author: 'Sunstone'
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2022 Tedeapolis
+copyright: Copyright &copy; 2023 - 2025 Sunstone
 
 # Repository
 repo_url: 'https://github.com/Tedeapolis/wet-en-regelgeving/'
@@ -60,7 +60,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Tedeapolis: streamen.md
+  - Streamen op Sunstone: streamen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
