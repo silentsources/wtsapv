@@ -1,11 +1,16 @@
 # Project information
-site_name: Wave wet en regelgeving
-site_url: 'https://apv.wavetestserver.nl/'
-site_description: 'Wet en regelgeving van Wave Testserver'
-site_author: 'Wave'
+site_name: Tedeapolis wet en regelgeving
+site_url: 'https://wetboek.tedeapolis.nl/'
+site_description: 'Wet en regelgeving van Tedeapolis roleplay'
+site_author: 'Tedeapolis'
 
 # Copyright
-copyright: Copyright &copy; 2023 - 2025 Wave
+copyright: Copyright &copy; 2019 - 2022 Tedeapolis
+
+# Repository
+repo_url: 'https://github.com/Tedeapolis/wet-en-regelgeving/'
+repo_name: 'Tedeapolis/wet-en-regelgeving'
+edit_uri: 'edit/pre-release/docs/'
 
 # Congiguration
 theme:
