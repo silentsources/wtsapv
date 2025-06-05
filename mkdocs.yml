@@ -28,8 +28,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoWave.png
-  logo: img/logoWave.webp
+  favicon: img/logoSunstone.png
+  logo: img/logoSunstone.webp
   custom_dir: docs/overrides
   language: nl
   features:
