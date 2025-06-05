@@ -1,18 +1,11 @@
 # Project information
-site_name: Sunstone wet en regelgeving
-site_url: 'https://wetboek.sunstonerp.nl/'
-site_description: 'Wet en regelgeving van Sunstone Roleplay'
-site_author: 'Sunstone'
+site_name: Wave wet en regelgeving
+site_url: 'https://apv.wavetestserver.nl/'
+site_description: 'Wet en regelgeving van Wave Testserver'
+site_author: 'Wave'
 
 # Copyright
-copyright: Copyright &copy; 2022 - 2025 Sunstone
-
-# Repository
-repo_url: 'https://github.com/Tedeapolis/wet-en-regelgeving/'
-repo_name: 'Tedeapolis/wet-en-regelgeving'
-edit_uri: 'edit/pre-release/docs/'
-
-google_analytics: ['UA-167800475-3', 'wetboek.sunstonrp.nl']
+copyright: Copyright &copy; 2023 - 2025 Wave
 
 # Congiguration
 theme:
@@ -30,8 +23,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoTedeapolis.png
-  logo: img/logoTedeapolis.webp
+  favicon: img/logoWave.png
+  logo: img/logoWave.webp
   custom_dir: docs/overrides
   language: nl
   features:
@@ -46,15 +39,7 @@ theme:
     analytics:
       provider: google
       property: UA-167800475-3
-
-plugins:
-  - git-revision-date-localized:
-      type: timeago
-      time_zone: Europe/Amsterdam
-      locale: nl
-      fallback_to_build_date: false
-  - search:
-      lang: nl
+      
 markdown_extensions:
   - admonition
   - attr_list
