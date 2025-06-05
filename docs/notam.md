@@ -8,6 +8,6 @@ De volgende gebieden zijn aangemerkt als no fly zones.
 - Vliegdekschip
 - Ministerie van Defensie (Nabij postcode 6035)
 
-Hier onder staan deze zones weergegeven op de kaart van Eindhoven.
+Hier onder staan deze zones weergegeven op de kaart van Tedeapolis.
 
 ![No fly zones](img/restrictedAirspace.webp)
