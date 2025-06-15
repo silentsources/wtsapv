@@ -16,7 +16,7 @@ Sunstone heeft verschillende discord servers die zijn goed gekeurd door het stad
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
 |Sunstone Roleplay| Main discord server van Sunstone | [Invite](https://discord.gg/sunstonerp) |
-|Sunstone Support| Support discord server van Sunstone | [Invite](https://discord.gg/uQ9jGA93yC) |
-|Sunstone Cardealer| Cardealer discord server van Sunstone | [Invite](https://discord.gg/UcCG2kn) |
-|Sunstone Flightschool| Vliegschool discord server van Sunstone | [Invite](https://discord.gg/JMrvTrZqcz) |
-|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van Sunstone | [Invite](https://discord.gg/KPTt4ce5nw) |
+|Sunstone Support| Support discord server van Sunstone | [Invite](https://discord.gg/AFG9X2Chxw) |
+|Sunstone Cardealer| Cardealer discord server van Sunstone | [Invite](https://discord.gg/ScpB9jyheS) |
+|Sunstone Onderwereld| Onderwereld discord server van Sunstone | [Invite](https://discord.gg/h7qK55cDFS) |
+|Sunstone Flightschool| Vliegschool discord server van Sunstone | [Invite](https://discord.gg/Nfn2mwSKTh) |
